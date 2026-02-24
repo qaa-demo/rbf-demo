@@ -26,7 +26,7 @@
     `pip install webdrivermanager`
 
 ## Example
-Test cases for a sample web site [Demoblaze](https://testautomationpro.com/aut/).
+Test cases for a sample web site [Demoblaze](https://demoblaze.com/).
 
 This project is developed to demontrate Web UI automation using Robot Framework and Selenium Library.
 
